@@ -9,4 +9,4 @@ As senhas devem ser armazenadas usando hash seguro (ex.: bcrypt).
 ### RNF03 — Compatibilidade
 O sistema deve funcionar nos navegadores Chrome, Edge e Firefox.
 
-### RF0N.... ASSIM POR DIANTE TA? (EXCLUI ESSA LINHA)
+### RNF04.... ASSIM POR DIANTE TA? (EXCLUI ESSA LINHA)
