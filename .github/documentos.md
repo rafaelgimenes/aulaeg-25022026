@@ -1,6 +1,6 @@
 ---
 name: Requisito (RF / RNF / RN)
-about: Criar um requisito funcional, não funcional ou regra de negócio
+about: Criar um RF, RNF ou RN
 title: "<tipo>: <título curto>"
 ---
 
