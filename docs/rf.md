@@ -9,4 +9,4 @@ O sistema deve permitir que o usuário solicite recuperação de senha por e-mai
 ### RF03 — Atualização de perfil
 O usuário pode alterar nome, foto e dados pessoais.
 
-### RF0N.... ASSIM POR DIANTE TA? (EXCLUI ESSA LINHA)
+### RF04.... ASSIM POR DIANTE TA? (EXCLUI ESSA LINHA)
